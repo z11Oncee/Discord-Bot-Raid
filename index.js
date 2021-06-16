@@ -249,4 +249,4 @@ client.on("message", message => {
 });
 
 
-client.login("ODUwMzc0NTE5NzMwNDcwOTQz.YLoy_A.J57MHM9i99kgn4JFg8ChZITth28");
+client.login("Aqui pega el token de tu bot");
