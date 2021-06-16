@@ -1,9 +1,21 @@
 # Discord-Bot-Raid
 A simple bot raid
 
+Paso 1
+Crear una carpeta
+En el cmd poner.
+cd (ruta de la carpeta)
+npm i -y
+npm i discord.js
+npm i chalk
 
 
-You only have to run the bat.
-And the bot is On!
 
-Put the token bot in the index.js script.
+Paso 2
+
+Crear un bot en la pagina de developers en discord.c
+Copiar el token
+Pegarlo en la script
+Ejecutar el bat
+Y empezar ejecutando los comandos
+
