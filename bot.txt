@@ -1,0 +1,7 @@
+@echo off
+title Bot Raid Developed By zOncee H.$.Q
+:top
+cls
+node index.js
+pause
+goto top
